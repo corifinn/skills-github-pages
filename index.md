@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+From idea to learning experience | Cori Finnegan 
 ---
 
